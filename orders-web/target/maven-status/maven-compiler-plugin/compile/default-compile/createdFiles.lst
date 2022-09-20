@@ -1,0 +1,3 @@
+mx\com\axity\web\Application.class
+mx\com\axity\web\rest\HelloController.class
+mx\com\axity\web\SwaggerConfig.class
