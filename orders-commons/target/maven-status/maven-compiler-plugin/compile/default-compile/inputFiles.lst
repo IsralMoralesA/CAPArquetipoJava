@@ -1,0 +1,15 @@
+C:\Users\asmet.morales\Documents\Arquetipo Java\Springboot-generator-master\orders-service\orders-commons\src\main\java\mx\com\axity\commons\to\KeyBoardTO.java
+C:\Users\asmet.morales\Documents\Arquetipo Java\Springboot-generator-master\orders-service\orders-commons\src\main\java\mx\com\axity\commons\to\OrdersTO.java
+C:\Users\asmet.morales\Documents\Arquetipo Java\Springboot-generator-master\orders-service\orders-commons\src\main\java\mx\com\axity\commons\to\ServiceOrderTO.java
+C:\Users\asmet.morales\Documents\Arquetipo Java\Springboot-generator-master\orders-service\orders-commons\src\main\java\mx\com\axity\commons\to\ComputerTO.java
+C:\Users\asmet.morales\Documents\Arquetipo Java\Springboot-generator-master\orders-service\orders-commons\src\main\java\mx\com\axity\commons\exceptions\BusinessException.java
+C:\Users\asmet.morales\Documents\Arquetipo Java\Springboot-generator-master\orders-service\orders-commons\src\main\java\mx\com\axity\commons\stream\KafkaProducerConfig.java
+C:\Users\asmet.morales\Documents\Arquetipo Java\Springboot-generator-master\orders-service\orders-commons\src\main\java\mx\com\axity\commons\aspects\RequestValidatorAspect.java
+C:\Users\asmet.morales\Documents\Arquetipo Java\Springboot-generator-master\orders-service\orders-commons\src\main\java\mx\com\axity\commons\stream\KafkaConsumerConfig.java
+C:\Users\asmet.morales\Documents\Arquetipo Java\Springboot-generator-master\orders-service\orders-commons\src\main\java\mx\com\axity\commons\exceptions\NotFoundException.java
+C:\Users\asmet.morales\Documents\Arquetipo Java\Springboot-generator-master\orders-service\orders-commons\src\main\java\mx\com\axity\commons\exceptions\ParametersException.java
+C:\Users\asmet.morales\Documents\Arquetipo Java\Springboot-generator-master\orders-service\orders-commons\src\main\java\mx\com\axity\commons\to\MouseTO.java
+C:\Users\asmet.morales\Documents\Arquetipo Java\Springboot-generator-master\orders-service\orders-commons\src\main\java\mx\com\axity\commons\exceptions\UnauthorizedException.java
+C:\Users\asmet.morales\Documents\Arquetipo Java\Springboot-generator-master\orders-service\orders-commons\src\main\java\mx\com\axity\commons\to\ErrorTO.java
+C:\Users\asmet.morales\Documents\Arquetipo Java\Springboot-generator-master\orders-service\orders-commons\src\main\java\mx\com\axity\commons\exceptions\ForbiddenException.java
+C:\Users\asmet.morales\Documents\Arquetipo Java\Springboot-generator-master\orders-service\orders-commons\src\main\java\mx\com\axity\commons\to\MonitorTO.java
